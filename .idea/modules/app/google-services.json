@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "368286020970",
+    "firebase_url": "https://fir-movies-ba0bc.firebaseio.com",
+    "project_id": "fir-movies-ba0bc",
+    "storage_bucket": "fir-movies-ba0bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368286020970:android:be5497fbfb95be36a0a113",
+        "android_client_info": {
+          "package_name": "com.example.moviesapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368286020970-qcflfog5euudjs0kg0h5dfvlnsurm90b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moviesapplication",
+            "certificate_hash": "cc7ab91484eac2c088abedc74b3d8a9e79c86a83"
+          }
+        },
+        {
+          "client_id": "368286020970-8s6gj0pkepp3sh73b9l793p0gqs8j8ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUOwpq4IurwZD-j7JaiT0bcUuCRieeLuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368286020970-8s6gj0pkepp3sh73b9l793p0gqs8j8ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
